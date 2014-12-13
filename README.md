@@ -1,4 +1,8 @@
 Motif
 =====
 
-External libraries
+External libraries including:
+
+* GLM
+* GLEW
+* GLFW
